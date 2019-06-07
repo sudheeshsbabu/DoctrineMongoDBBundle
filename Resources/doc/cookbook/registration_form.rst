@@ -156,7 +156,7 @@ represents the "registration":
 
         /**
          * @Assert\NotBlank()
-         * @Assert\True()
+         * @Assert\IsTrue()
          */
         protected $termsAccepted;
 
